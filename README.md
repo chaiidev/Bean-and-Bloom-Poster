@@ -7,7 +7,7 @@ These posters are shaped specifically for Instagram feed posts (1080 × 1350).
 
 ---
 
-## 🌼 Project Versions
+🌼 Project Versions
 
 1️⃣ Static Instagram Poster (4:5)
 A clean, aesthetic café poster created for social media branding.  
@@ -19,10 +19,10 @@ Suitable for reels, stories, and digital promotions.
 
 ---
 
-## 📂 Files Included
+📂 Files Included
 - `poster_static.png` — 4:5 static poster  
 - `poster_animated.mp4` — 4:5 animated poster  
-- (Optional) Canva export files if needed
+
 
 ---
 
