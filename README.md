@@ -38,7 +38,7 @@ Suitable for reels, stories, and digital promotions.
 (Add your image links below after uploading on GitHub)
 
 Static Poster
-![Static Poster](https://github.com/chaiidev/Bean-and-Bloom-Poster/blob/main/With%20Animation.mp4)
+![Static Poster](https://github.com/chaiidev/Bean-and-Bloom-Poster/blob/main/Without%20Animation.jpg)
 
 Animated Poster  
 *(GitHub does not autoplay video; upload mp4 and link it)*  
