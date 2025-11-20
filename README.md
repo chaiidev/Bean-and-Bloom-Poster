@@ -42,7 +42,7 @@ Static Poster
 
 Animated Poster  
 *(GitHub does not autoplay video; upload mp4 and link it)*  
-[Click to view animated poster](https://github.com/chaiidev/Bean-and-Bloom-Poster/blob/main/Animation.gif)
+[Click to view animated poster](https://raw.githubusercontent.com/chaiidev/Bean-and-Bloom-Poster/main/Animation.gif)
 
 ---
 
